@@ -15,9 +15,7 @@ coverage
 #logs
 npm-debug.log
 
-**/*.js
 **/*.js.map
-**/*.d.ts
 !lib/models/Model.d.ts
 !lib/models/Model.js
 !lib/models/Sequelize.d.ts
